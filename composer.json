@@ -1,6 +1,7 @@
 {
     "name": "molehill-cms/website",
     "type": "project",
+    "license": "MIT",
     "authors": [
         {
             "name": "John Learn",
