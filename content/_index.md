@@ -17,13 +17,14 @@ It's a simple, extensible, file-based content management system written in PHP.
 
 ![Molehill CMS Logo](/assets/slop.jpg)
 
-(Sorry. This image is AI slop. Better one to come. 😬)
+(Sorry, this image is AI slop. Better one to come. 😬)
 
 <!-- @section: main -->
 
 ## Start With the Basics
 
-Molehill CMS requires PHP 8.3 or newer and can be installed using [Composer](https://getcomposer.org).
+Molehill CMS requires PHP 8.3 or newer and can be installed using
+[Composer](https://getcomposer.org).
 
 ```
 composer create-project molehill-cms/the-basics my-project
