@@ -34,6 +34,6 @@ class TemplateContext
 
     public function content($section = 'main')
     {
-        return @$this->content[$section];
+        return "\n{$this->content[$section]}\n\n";
     }
 };
