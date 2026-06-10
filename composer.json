@@ -1,0 +1,25 @@
+{
+    "name": "molehill-cms/website",
+    "type": "project",
+    "authors": [
+        {
+            "name": "John Learn",
+            "email": "jflearn@logicbrush.com"
+        }
+    ],
+    "require": {
+        "php": "^8.3",
+        "fastvolt/markdown": "^0.2.5",
+        "maxbeckers/php-yaml-parser": "^0.3.1",
+        "picocss/pico": "^2.1"
+    },
+    "require-dev": {
+        "rector/rector": "^2.4"
+    },
+    "autoload": {
+        "psr-4": { "\\MolehillCMS\\Core\\": "source/" }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}

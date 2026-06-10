@@ -1,0 +1,12 @@
+site:
+  title: Molehill CMS
+  contact:
+    email: support@logicbrush.com
+    phone: (215) 290-0636
+
+menu:
+  Home: /content/
+
+theme: default
+template: page
+section: main

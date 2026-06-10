@@ -1,0 +1,32 @@
+/**
+ * PicoCSS customizations.
+ */
+:root {
+}
+
+/** 
+ * A center-aligned hero section.
+ */
+main>section.hero {
+
+    h1 { 
+        --pico-font-size: 3rem;
+    }
+
+    margin-bottom: 4rem;
+    margin-top: 4rem;
+
+    text-align: center;
+    text-wrap: balance;
+
+}
+
+body.hero main>section {
+
+    pre { display: inline-block; }
+    img { border-radius: 2em; }
+    h2 { margin-top: 4rem; }
+    p { text-wrap: balance; }
+
+    text-align: center;
+}

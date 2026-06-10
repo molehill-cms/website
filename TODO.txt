@@ -1,0 +1,14 @@
+This is a list of things todo in taskpaper format...
+
+Initial Release:
+
+    - Subtemplates.
+
+Someday/Maybe:
+
+    - Add support for multiple line properties.
+
+Archive:
+    - Get Pico loading from the vendor directory. @done(26-06-10 07:35) @project(Initial Release)
+    - Ability to load local css styles. @done(26-06-10 16:19) @project(Initial Release)
+    - Loading of properties files. @done(26-06-10 07:35) @project(Initial Release)
