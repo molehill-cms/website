@@ -4,7 +4,7 @@ Introduction to Molehill CMS
 ============================
 
 @meta.title: @{site.title}
-@meta.description: Molehill CMS is a simple, extensible, customizable, file-based content management system written in PHP.
+@meta.description: Molehill CMS is a simple, extensible, customizable, file-based content management system for PHP.
 @template: hero
 
 -->
@@ -13,8 +13,7 @@ Introduction to Molehill CMS
 
 # Molehill is a Minimal CMS
 
-It's a simple, extensible, customizable, file-based content management system
-written in PHP.
+It's a simple, extensible, customizable, file-based content management system for PHP.
 
 ![Molehill CMS Logo](/assets/slop.jpg)
 
