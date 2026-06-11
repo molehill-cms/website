@@ -22,7 +22,7 @@ main>section.hero {
 }
 
 main img {
-    max-width: 1024px;
+    max-width: min(100%, 1024px);
 }
 
 body.hero main>section {
