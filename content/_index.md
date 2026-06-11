@@ -30,7 +30,7 @@ Molehill CMS requires PHP 8.3 or newer and can be installed using
 composer create-project -s dev molehill-cms/website my-project
 ```
 
-This will give you a copy of this website as a starting point.
+This will give you a copy of this website to use as a starting point.
 
 ## Add Some Content
 
