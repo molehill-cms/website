@@ -41,7 +41,7 @@ Dammit.
 
 ...
 
-Ok, I guess I'll build it myself.
+I guess I'll build it myself.
 
 FUCK!
 
