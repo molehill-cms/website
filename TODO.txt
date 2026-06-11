@@ -2,11 +2,14 @@ This is a list of things todo in taskpaper format...
 
 Initial Release:
 
-    - Subtemplates.
+    - Move core code to a submodule.
+    - Implement "the-basics" project template.
+    - Tests??
 
 Someday/Maybe:
 
-    - Add support for multiple line properties.
+    - Support for multiple-line properties??
+    - Subtemplates??
 
 Archive:
     - Get Pico loading from the vendor directory. @done(26-06-10 07:35) @project(Initial Release)
