@@ -38,7 +38,7 @@ This will give you a copy of this website to use as a starting point.
 ## Add Some Content
 
 Your content lives in Markdown files. You get routing and HTML rendering
-automatically.
+automagically.
 
 ![Your Content is Markdown](/assets/markdown.jpg)
 
