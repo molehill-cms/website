@@ -42,7 +42,7 @@ automagically.
 
 ![Your Content is Markdown](/assets/markdown.jpg)
 
-## Customise Your Theme
+## Customize Your Theme
 
 Template files are vanilla PHP and can be modified any way you see fit.
 
