@@ -16,7 +16,7 @@ Introduction to Molehill CMS
 
 @{meta.description}
 
-i.e., "Dude. I just want to build a little website."
+i.e., “Dude. I just want to build a little website.”
 
 ![Molehill CMS Logo](/assets/slop.jpg)
 
