@@ -3,6 +3,7 @@ This is a list of things todo in taskpaper format...
 Initial Release:
 
     - Move core code to a submodule.
+    - Implement one core extension module.
     - Implement "the-basics" project template.
     - Tests??
 

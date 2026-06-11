@@ -18,7 +18,7 @@
         "rector/rector": "^2.4"
     },
     "autoload": {
-        "psr-4": { "\\MolehillCMS\\Core\\": "source/" }
+        "psr-4": { "\\MolehillCMS\\Kernel\\": "source/" }
     },
     "config": {
         "sort-packages": true

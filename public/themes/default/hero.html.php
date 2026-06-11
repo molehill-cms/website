@@ -1,6 +1,6 @@
 <?php 
 
-use MolehillCMS\Core\TemplateContext;
+use MolehillCMS\Kernel\TemplateContext;
 
 /** @var TemplateContext $this */ 
 

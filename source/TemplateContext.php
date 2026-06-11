@@ -1,6 +1,6 @@
 <?php
 
-namespace MolehillCMS\Core;
+namespace MolehillCMS\Kernel;
 
 class TemplateContext
 {
