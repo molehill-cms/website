@@ -28,6 +28,8 @@ I don't even need a [database](https://www.mysql.com) right now.
 
 Even [Symfony](https://symfony.com) is too much.
 
+I love [Silverstripe](https://www.silverstripe.org), but...
+
 I just need [PHP](https://www.php.net), some routing, and a quick way to create
 content.
 
@@ -41,7 +43,7 @@ Dammit.
 
 ...
 
-I guess I'll build it myself.
+Ok, I guess I'll build it myself.
 
 FUCK!
 
