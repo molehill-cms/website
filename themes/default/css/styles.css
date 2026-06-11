@@ -28,7 +28,7 @@ main img {
 body.hero main>section {
 
     pre { display: inline-block; }
-    img { border-radius: 2em; }
+    img { border-radius: 1em; }
     h2 { margin-top: 6rem; }
     p { text-wrap: balance; }
 
