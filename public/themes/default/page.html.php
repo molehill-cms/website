@@ -38,7 +38,7 @@ use MolehillCMS\Kernel\TemplateContext;
 
     </main>
 
-    <footer id="page-footer" class="container"></footer>
+    <?php require('./_page.footer.html.php') ?>
 
 </body>
 
