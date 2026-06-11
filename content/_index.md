@@ -43,6 +43,6 @@ Template files are standard PHP and can be modified any way you see fit.
 
 ## Install Some Additional Features
 
-Your can extend Molehill CMS functionality through a varity of core and
+Your can extend Molehill CMS functionality through a variety of core and
 third-party modules.
 
