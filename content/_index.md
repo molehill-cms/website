@@ -20,7 +20,7 @@ Introduction to Molehill CMS
 
 ![Molehill CMS Logo](/assets/slop.jpg)
 
-(Sorry, this image is AI slop. Better one to come. 😬)
+(Sorry, this image is [AI slop](https://duckduckgo.com/?q=ai+slop&t=osx&ia=images&iax=images). Better one to come. 😬)
 
 <!-- @section: main -->
 
