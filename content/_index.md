@@ -5,6 +5,7 @@ Introduction to Molehill CMS
 
 @meta.title: @{site.title}: @{site.tagline}
 @meta.description: Molehill CMS is an intuitive, customizable, extensible, file-based content management system for PHP.
+
 @template: hero
 
 -->

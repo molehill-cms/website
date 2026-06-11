@@ -14,7 +14,7 @@ use MolehillCMS\Kernel\TemplateContext;
 
 </head>
 
-<body class="hero">
+<body class="page">
 
     <?php require('./_page.header.html.php') ?>
 
