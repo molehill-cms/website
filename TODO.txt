@@ -2,7 +2,7 @@ This is a list of things todo in taskpaper format...
 
 Initial Release:
 
-    - Implement one core extension module.
+    - Implement one core extension module. sitemap??
     - Tests??
     - Logo
 

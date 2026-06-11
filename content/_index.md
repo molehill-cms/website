@@ -39,12 +39,18 @@ This will give you a copy of this website to use as a starting point.
 Your content lives in Markdown files. You get routing and HTML rendering
 automatically.
 
+![Your Content is Markdown](/assets/markdown.jpg)
+
 ## Customise Your Theme
 
-Template files are standard PHP and can be modified any way you see fit.
+Template files are vanilla PHP and can be modified any way you see fit.
+
+(TODO)
 
 ## Install Some Additional Features
 
 Your can extend Molehill CMS functionality through a variety of core and
 third-party modules.
+
+(TODO)
 
