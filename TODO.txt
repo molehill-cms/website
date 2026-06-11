@@ -2,9 +2,7 @@ This is a list of things todo in taskpaper format...
 
 Initial Release:
 
-    - Move core code to a submodule. @started(26-06-11 08:46) @by(jflearn) @done(26-06-11 09:24)
     - Implement one core extension module.
-    - Implement "the-basics" project template.
     - Tests??
 
 Someday/Maybe:
@@ -13,6 +11,8 @@ Someday/Maybe:
     - Subtemplates??
 
 Archive:
+    - Implement "the-basics" project template. @started(26-06-11 09:47) @by(jflearn) @cancelled(26-06-11 09:58) @project(Initial Release)
+    - Move core code to a submodule. @started(26-06-11 08:46) @by(jflearn) @done(26-06-11 09:24) @project(Initial Release)
     - Get Pico loading from the vendor directory. @done(26-06-10 07:35) @project(Initial Release)
     - Ability to load local css styles. @done(26-06-10 16:19) @project(Initial Release)
     - Loading of properties files. @done(26-06-10 07:35) @project(Initial Release)

@@ -21,18 +21,18 @@ Introduction to Molehill CMS
 
 <!-- @section: main -->
 
-## Start With the Basics
+## Start With Something Simple
 
 Molehill CMS requires PHP 8.3 or newer and can be installed using
 [Composer](https://getcomposer.org).
 
 ```
-composer create-project molehill-cms/the-basics my-project
+composer create-project -s dev molehill-cms/website my-project
 ```
 
-(This won't work yet. 😢)
+This will give you a copy of this website as a starting point.
 
-## Create Some Content
+## Add Some Content
 
 Your content lives in Markdown files. You get routing and HTML rendering
 automatically.
@@ -41,7 +41,8 @@ automatically.
 
 Template files are standard PHP and can be modified any way you see fit.
 
-## Add the Features You Need
+## Install Some Additional Features
 
-Extend Molehill CMS with core and third-party modules.
+Your can extend Molehill CMS functionality through a varity of core and
+third-party modules.
 
