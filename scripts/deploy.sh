@@ -14,7 +14,15 @@ find $SCRIPT_DIR/../static/ -name '.htaccess' -delete
 find $SCRIPT_DIR/../static/ -name '*.php' -delete
 
 ### Download pages.
-curl --insecure $SITE_ROOT/ > $SCRIPT_DIR/../static/index.html
+cd $SCRIPT_DIR/../content/
+find ./ -name "_index.md" -print | while read -r FILE; do
+    mkdir -p "$SCRIPT_DIR/../static/$(dirname "$FILE")"
+    curl --insecure "$SITE_ROOT/$(dirname "$FILE")" > "$SCRIPT_DIR/../static/$(dirname "$FILE")/index.html"
+done
+find ./ -name "*.md" -not -name "_index.md" -print | while read -r FILE; do
+    mkdir -p "$SCRIPT_DIR/../static/$(dirname "$FILE")/$(basename "$FILE" .md)"
+    curl --insecure "$SITE_ROOT/$(dirname "$FILE")/$(basename "$FILE" .md)" > "$SCRIPT_DIR/../static/$(dirname "$FILE")/$(basename "$FILE" .md)/index.html"
+done
 
 ### Push to 'deploy' branch.
 cd $SCRIPT_DIR/../static/
