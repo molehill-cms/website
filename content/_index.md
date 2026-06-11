@@ -11,6 +11,8 @@ Introduction to Molehill CMS
 
 <!-- @section: hero -->
 
+🚧 Caution: Work in Progress 🚧
+
 # @{site.tagline}
 
 @{meta.description}
