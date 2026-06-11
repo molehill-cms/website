@@ -16,7 +16,7 @@ Introduction to Molehill CMS
 
 @{meta.description}
 
-“Dude, I just want to build a little website.”
+“[Dude, I just want to build a little website.](/why/)”
 
 ![Molehill CMS Logo](/assets/slop.jpg)
 
