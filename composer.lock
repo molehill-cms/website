@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a40a3cf1a8b7ca3510df4fc6db898a0f",
+    "content-hash": "aea914cbb82c7937f9f30ceae2dba4d8",
     "packages": [
         {
             "name": "fastvolt/markdown",
@@ -66,16 +66,16 @@
         },
         {
             "name": "maxbeckers/php-yaml-parser",
-            "version": "0.3.1",
+            "version": "0.3.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/maxbeckers/php-yaml-parser.git",
-                "reference": "09dfd81db4886f4a12bac60e1ab19b7e967b2942"
+                "reference": "d03e5a5ff1fb28bb45367688fd2ec273b4bb7d6a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/maxbeckers/php-yaml-parser/zipball/09dfd81db4886f4a12bac60e1ab19b7e967b2942",
-                "reference": "09dfd81db4886f4a12bac60e1ab19b7e967b2942",
+                "url": "https://api.github.com/repos/maxbeckers/php-yaml-parser/zipball/d03e5a5ff1fb28bb45367688fd2ec273b4bb7d6a",
+                "reference": "d03e5a5ff1fb28bb45367688fd2ec273b4bb7d6a",
                 "shasum": ""
             },
             "require": {
@@ -106,9 +106,55 @@
             "description": "Parse YAML with PHP",
             "support": {
                 "issues": "https://github.com/maxbeckers/php-yaml-parser/issues",
-                "source": "https://github.com/maxbeckers/php-yaml-parser/tree/0.3.1"
+                "source": "https://github.com/maxbeckers/php-yaml-parser/tree/0.3.2"
             },
-            "time": "2026-06-05T07:04:18+00:00"
+            "time": "2026-06-10T13:44:20+00:00"
+        },
+        {
+            "name": "molehill-cms/kernel",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/molehill-cms/kernel.git",
+                "reference": "3015f9236167cde054e5c64cd93f9ab25b11f816"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/molehill-cms/kernel/zipball/3015f9236167cde054e5c64cd93f9ab25b11f816",
+                "reference": "3015f9236167cde054e5c64cd93f9ab25b11f816",
+                "shasum": ""
+            },
+            "require": {
+                "fastvolt/markdown": "^0.2.5",
+                "maxbeckers/php-yaml-parser": "^0.3.1",
+                "php": "^8.3"
+            },
+            "require-dev": {
+                "rector/rector": "^2.4"
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "\\MolehillCMS\\Kernel\\": "source/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "John Learn",
+                    "email": "jflearn@logicbrush.com"
+                }
+            ],
+            "description": "The kernel for the Molehill CMS.",
+            "support": {
+                "issues": "https://github.com/molehill-cms/kernel/issues",
+                "source": "https://github.com/molehill-cms/kernel/tree/master"
+            },
+            "time": "2026-06-11T13:05:49+00:00"
         },
         {
             "name": "picocss/pico",
@@ -287,7 +333,9 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {},
+    "stability-flags": {
+        "molehill-cms/kernel": 20
+    },
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {

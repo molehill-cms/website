@@ -1,5 +1,6 @@
 {
     "name": "molehill-cms/website",
+    "description": "The main website for the Molehill CMS.",
     "type": "project",
     "license": "MIT",
     "authors": [
@@ -10,17 +11,20 @@
     ],
     "require": {
         "php": "^8.3",
-        "fastvolt/markdown": "^0.2.5",
-        "maxbeckers/php-yaml-parser": "^0.3.1",
+        "molehill-cms/kernel": "dev-master",
         "picocss/pico": "^2.1"
     },
     "require-dev": {
         "rector/rector": "^2.4"
     },
     "autoload": {
-        "psr-4": { "\\MolehillCMS\\Kernel\\": "source/" }
+        "psr-4": { "": "source/" }
     },
     "config": {
+        "preferred-install": {
+            "molehill-cms/*" : "source",
+            "*": "dist"
+        },
         "sort-packages": true
     }
 }
