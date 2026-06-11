@@ -10,7 +10,7 @@ use MolehillCMS\Kernel\TemplateContext;
 
 <head>
 
-<?php require('./_head.html.php') ?>
+<?php require('./_page.head.html.php') ?>
 
 </head>
 

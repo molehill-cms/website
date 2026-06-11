@@ -5,6 +5,7 @@ Initial Release:
     - Implement one core extension module. sitemap??
     - Tests??
     - Logo
+    - External links should open in a new tab.
 
 Someday/Maybe:
 

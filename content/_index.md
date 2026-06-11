@@ -12,11 +12,11 @@ Introduction to Molehill CMS
 
 <!-- @section: hero -->
 
-(🚧 Caution: Work in Progress 🚧)
-
 # @{site.tagline}
 
 @{meta.description}
+
+i.e., "Dude. I just want to build a little website."
 
 ![Molehill CMS Logo](/assets/slop.jpg)
 
@@ -46,12 +46,12 @@ automatically.
 
 Template files are vanilla PHP and can be modified any way you see fit.
 
-(TODO)
+![Your Themes are PHP](/assets/php.jpg)
 
 ## Install Some Additional Features
 
 Your can extend Molehill CMS functionality through a variety of core and
 third-party modules.
 
-(TODO)
+[Search Packagist](https://packagist.org/search/?query=molehill-cms&type=library)
 
