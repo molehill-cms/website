@@ -23,8 +23,8 @@ Introduction to Molehill CMS
 
 ## Start With Something Simple
 
-Molehill CMS requires PHP 8.3 or newer and can be installed using
-[Composer](https://getcomposer.org).
+Molehill CMS requires [PHP 8.3](https://www.php.net) or newer and can be
+installed using [Composer](https://getcomposer.org).
 
 ```
 composer create-project -s dev molehill-cms/website my-project

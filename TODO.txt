@@ -4,6 +4,7 @@ Initial Release:
 
     - Implement one core extension module.
     - Tests??
+    - Logo
 
 Someday/Maybe:
 

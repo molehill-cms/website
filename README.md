@@ -2,7 +2,7 @@
 
 ## What is Molehill CMS?
 
-Molehill CMS is a simple, extensible, file-based content management system
-written in PHP.
+Molehill CMS is an intuitive, customizable, extensible, file-based content
+management system for PHP.
 
-More coming soon.
+[Full Documentation Here](https://molehill-cms.org)
