@@ -22,7 +22,7 @@ Though I do want to build it intelligently.
 
 So I can grow it if I need to.
 
-I don't even need a [database](https://www.mysql.com).
+I don't even need a [database](https://www.mysql.com) right now.
 
 [Laravel](https://laravel.com) is too much.
 
@@ -38,6 +38,8 @@ Is there any way I can get started quickly, but leave me room to grow?
 ...
 
 Dammit.
+
+...
 
 Ok, I guess I'll build it myself.
 
