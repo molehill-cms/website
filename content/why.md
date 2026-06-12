@@ -8,7 +8,7 @@ Why Molehill CMS
 
 -->
 
-# Why?
+# Why Molehill CMS?
 
 Oh. My. God. Becky.
 
@@ -22,13 +22,13 @@ Though I do want to build it intelligently.
 
 So I can grow it if I need to.
 
-I don't even need a [database](https://www.mysql.com) right now.
+I don't even need a database right now.
 
 [Laravel](https://laravel.com) is too much.
 
-Even [Symfony](https://symfony.com) is too much.
-
 I love [Silverstripe](https://www.silverstripe.org), but...
+
+And there's no way I'm using [WordPress](https://wordpress.org).
 
 I just need [PHP](https://www.php.net), some routing, and a quick way to create
 content.
@@ -39,12 +39,6 @@ Is there any way I can get started quickly, but leave me room to grow?
 
 ...
 
-Dammit.
-
-...
-
 Ok, I guess I'll build it myself.
-
-FUCK!
 
 --jfl
